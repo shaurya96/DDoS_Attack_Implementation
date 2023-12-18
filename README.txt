@@ -1,4 +1,4 @@
-1) Extract folder Net_Sec_Project_2.tar
+1) git clone https://github.com/shaurya96/DDoS_Attack_Implementation.git
 2) Open Task-1 folder.
 3) Run main_server.py by opening terminal in ../../Net_Sec_Project_2/Task-1 and typing command - python3 main_server.py
 4) Run main.py by opening terminal in ../../Net_Sec_Project_2/Task-1 and typing command - python3 main.py
