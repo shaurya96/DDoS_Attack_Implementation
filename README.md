@@ -4,7 +4,7 @@ This project explores the practical implementation of Distributed Denial of Serv
 
 **Pre-requisites**
 
-Ensure that you have Python3 installed on your system. For information on installing Python, visit python.org or realpython.com. Additionally, Scapy, a packet crafting library, is utilized in the project. Installation details can be found here. The project is composed of 3 tasks, where Task-1 implements basic socket programming, Task-2 implements TCP SYN Flood Attack and Task-3 implements HTTP Flood Attack.
+Ensure that you have Python3 installed on your system. For information on installing Python, visit [python.org](python.org) or [realpython.com](realpython.com). Additionally, Scapy, a packet crafting library, is utilized in the project. Installation details can be found [here](http://phaethon.github.io/kamene/api/installation.html). The project is composed of 3 tasks, where Task-1 implements basic socket programming, Task-2 implements TCP SYN Flood Attack and Task-3 implements HTTP Flood Attack.
 
 Before executing the tasks locally, first clone the repository locally by using command - git clone https://github.com/shaurya96/DDoS_Attack_Implementation.git
 
@@ -14,9 +14,9 @@ In the required Socket Programming task, the project entails the creation and in
 
 Steps to execute the task-
 
-Open Task-1 folder.
-Run main_server.py by opening terminal in ../../DDoS_Attack_Implementation/Task-1 and typing command - python3 main_server.py
-Run main.py by opening terminal in ../../DDoS_Attack_Implementation/Task-1 and typing command - python3 main.py
+1. Open Task-1 folder.
+2. Run main_server.py by opening terminal in ../../DDoS_Attack_Implementation/Task-1 and typing command - python3 main_server.py
+3. Run main.py by opening terminal in ../../DDoS_Attack_Implementation/Task-1 and typing command - python3 main.py
 
 **Task-2 (TCP SYN Flood Attack Implementation)**
 
@@ -24,9 +24,9 @@ The TCP SYN Flood Attack implementation involves several key components. Firstly
 
 Steps to execute the task-
 
-Open Task-2 folder.
-Run main_server_1.py by opening terminal in ../../DDoS_Attack_Implementation/Task-2 and typing command - python3 main_server_1.py
-Run main_1.py by opening terminal in ../../DDoS_Attack_Implementation/Task-2 and typing command - sudo python3 main_1.py
+1. Open Task-2 folder.
+2. Run main_server_1.py by opening terminal in ../../DDoS_Attack_Implementation/Task-2 and typing command - python3 main_server_1.py
+3. Run main_1.py by opening terminal in ../../DDoS_Attack_Implementation/Task-2 and typing command - sudo python3 main_1.py
 
 **Task-3 (HTTP Flood Attack Implementation)**
 
@@ -34,6 +34,6 @@ The HTTP Flood Attack implementation involves various critical elements to simul
 
 Steps to execute the task-
 
-Open Task-3 folder.
-Run main_server_2.py by opening terminal in ../../DDoS_Attack_Implementation/Task-3 and typing command - python3 main_server_2.py
-Run main_2.py by opening terminal in ../../DDoS_Attack_Implementation/Task-3 and typing command - sudo python3 main_2.py    
+1. Open Task-3 folder.
+2. Run main_server_2.py by opening terminal in ../../DDoS_Attack_Implementation/Task-3 and typing command - python3 main_server_2.py
+3. Run main_2.py by opening terminal in ../../DDoS_Attack_Implementation/Task-3 and typing command - sudo python3 main_2.py    
