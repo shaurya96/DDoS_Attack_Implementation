@@ -10,7 +10,7 @@ Before executing the tasks locally, first clone the repository locally by using 
 
 **Task-1 (Socket Programming Implementation)**
 
-In the required Socket Programming task, the project entails the creation and interaction between two essential files: socket_programming_example_client.py and socket_programming_example_server.py. The client-side functionality involves the transmission of messages to the server, while the server side is responsible for listening to and receiving these messages. The successful execution of this task requires proficient socket creation, ensuring seamless communication between the client and server, encompassing both message sending and receiving capabilities. The effective implementation of these socket programming examples forms a fundamental aspect of the overall project's objectives.
+In the required Socket Programming task, the project entails the interaction between client and server. The client-side functionality involves the transmission of messages to the server, while the server side is responsible for listening to and receiving these messages. The successful execution of this task requires proficient socket creation, ensuring seamless communication between the client and server, encompassing both message sending and receiving capabilities. The effective implementation of these socket programming examples forms a fundamental aspect of the overall project's objectives.
 
 *Steps to execute the task-*
 
