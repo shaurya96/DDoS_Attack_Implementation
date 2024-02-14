@@ -1,4 +1,4 @@
-**DDoS Attack Implementations of attacking server with TCP SYN/HTTP flood requests**
+#DDoS Attack Implementations of attacking server with TCP SYN/HTTP flood requests
 
 This project explores the practical implementation of Distributed Denial of Service (DDoS) attacks, focusing on three key components: Socket programming (required), TCP SYN flood attack (required), and HTTP flood attack (bonus). The project is instructed in Python, with an option to use C/C++. Ubuntu is recommended for running experiments, but macOS and Windows are also acceptable as long as Python programs and required libraries can be successfully executed.
 
